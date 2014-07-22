@@ -9,14 +9,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCodeMetrics.Tests", "Te
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CodeMetrics|Any CPU = CodeMetrics|Any CPU
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF9E3718-38D5-43AE-B6A4-51E191AEAEC9}.CodeMetrics|Any CPU.ActiveCfg = CodeMetrics|Any CPU
+		{AF9E3718-38D5-43AE-B6A4-51E191AEAEC9}.CodeMetrics|Any CPU.Build.0 = CodeMetrics|Any CPU
 		{AF9E3718-38D5-43AE-B6A4-51E191AEAEC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AF9E3718-38D5-43AE-B6A4-51E191AEAEC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF9E3718-38D5-43AE-B6A4-51E191AEAEC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF9E3718-38D5-43AE-B6A4-51E191AEAEC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D119B250-2F84-43DF-A5AE-E3468A2EAD3A}.CodeMetrics|Any CPU.ActiveCfg = CodeMetrics|Any CPU
+		{D119B250-2F84-43DF-A5AE-E3468A2EAD3A}.CodeMetrics|Any CPU.Build.0 = CodeMetrics|Any CPU
 		{D119B250-2F84-43DF-A5AE-E3468A2EAD3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D119B250-2F84-43DF-A5AE-E3468A2EAD3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D119B250-2F84-43DF-A5AE-E3468A2EAD3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
